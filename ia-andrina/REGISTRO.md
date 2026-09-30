@@ -35,61 +35,58 @@ Registro do que foi pedido, decidido, configurado e testado (28/09 a 30/09/2026)
 
 ---
 
-## 2. Os 3 workflows no n8n
+## 2. Os workflows no n8n
 
-### 2.1 IA Andrina | Atendimento (Claude)
+### 2.1 IA Andrina | Agente de IA (Claude)
+
+É um **Agente de IA do n8n** (nó AI Agent). Ele tem:
+- **Modelo:** Claude Sonnet 5.5 (nó Anthropic Chat Model), com cache de prompt;
+- **Memória:** Redis Chat Memory (credencial "Memoria NV"), últimas 15 mensagens por conversa (chave `andrina:chat:<conversa>`);
+- **Ferramentas:** 6 ferramentas que chamam o workflow **IA Andrina | Ferramentas do agente**.
 
 Caminho de uma mensagem:
 
 1. **Webhook do Chatwoot** recebe `message_created` e `conversation_updated`.
-2. **Filtrar evento** deixa passar três casos:
-   - mensagem do lead nas caixas 216/217, em conversa com a etiqueta da IA (fora grupos e status);
-   - etiqueta da IA recém-colocada numa conversa (ativação);
+2. **Filtrar evento** separa quatro casos, sempre só nas caixas 216/217 e em conversa com a etiqueta da IA:
+   - mensagem do lead;
+   - mensagem de alguém da equipe;
+   - etiqueta da IA recém-colocada (ativação);
    - chamada interna de follow-up.
-3. **Mídia:** áudio vai para a transcrição e imagem para a descrição. O texto gerado fica guardado no Redis por 30 dias.
-4. **Buffer:** marca esta mensagem como a última da conversa, espera 20 a 40 s e só segue se nenhuma outra chegou nesse tempo.
-5. **Contexto:**
-   - conversa e etiquetas atuais;
-   - até 40 mensagens do Chatwoot;
-   - mídias transcritas;
+3. **Mensagem da equipe:** entra na memória do agente como fala nossa, marcada "(mensagem da equipe)". A IA fica sabendo o que o time respondeu. Mensagens enviadas pela própria IA são reconhecidas e não entram duas vezes.
+4. **Mídia do lead:** áudio vai para a transcrição (OpenAI) e imagem para a descrição (Claude). O texto gerado vira a mensagem do lead.
+5. **Buffer no Redis:** cada mensagem entra numa fila, o fluxo espera 20 a 40 s e só a última da rajada segue. Ela junta tudo que estava na fila.
+6. **Contexto:**
+   - etiquetas atuais;
+   - histórico do Chatwoot (para conferir se alguém já respondeu, para a ativação e para o resumo);
    - resumo;
    - prompt do GitHub;
    - agenda da semana.
-6. **Monta contexto:**
-   - usa as 15 últimas mensagens como diálogo;
-   - junta os dados da conversa (nome, data e hora, resumo, horários de reunião, modo follow-up);
-   - não responde se a última mensagem já é nossa, porque alguém da equipe já respondeu.
-7. **Claude** responde em JSON com a resposta e as ações. O prompt fica em cache para sair mais barato.
-8. **Interpreta resposta:**
-   - divide em até 2 balões (`---`) e tira travessão;
-   - não repete a última mensagem enviada;
-   - PULAR significa não mandar nada.
-9. **Confere de novo** se não chegou mensagem nova enquanto a IA pensava. Se chegou, desiste, porque a execução nova responde tudo.
-10. **Saídas**, nesta ordem:
-    - mensagens com 3,5 s entre os balões;
-    - os PDFs da lista;
-    - as ações;
-    - o Kanban;
-    - a atualização do resumo;
-    - o contador de follow-up.
+7. **Agente IA:** recebe o prompt com os dados da conversa (nome, data e hora, resumo, horários de reunião, modo follow-up) e a mensagem do lead. Usa a memória e chama as ferramentas quando precisa.
+8. **Confere de novo** se não chegou mensagem nova enquanto o agente pensava. Se chegou, desiste, porque a execução nova responde tudo.
+9. **Saídas:**
+   - resposta em até 2 balões (`---`), 3,5 s entre eles, sem travessão (PULAR não manda nada);
+   - os PDFs, se a ferramenta de lista foi usada;
+   - atualização do resumo;
+   - contador de follow-up.
 
-Ações que a IA pode pedir (campos do JSON):
+Ferramentas do agente:
 
-| Campo | O que o n8n faz |
+| Ferramenta | O que faz |
 |---|---|
-| `etiquetas` | Coloca `ia-reuniao`, `ia-fechamento` ou `ia-sem-interesse` |
-| `reuniao` | Nota @Sistema com dia, hora e link, atribui ao Sistema, prioridade alta, lembrete 10 min antes (sem duplicar, grava `ia_lembrete`) e etiqueta `ia-reuniao` |
+| `marcar_reuniao` (início, link) | Nota @Sistema com dia, hora e link, atribui ao Sistema, prioridade alta, lembrete 10 min antes (sem duplicar) e etiqueta `ia-reuniao` |
 | `mover_kanban` | Move ou cria o card no funil 13 "Andrina", etapa 55 Negociação |
-| `nota_sistema` | Nota privada marcando @Sistema (dúvida, matriz, horário pedido, cadastro recebido) |
-| `passar_humano` | Atribui à Juliana (id 9), tira a etiqueta da IA e deixa nota |
-| `enviar_lista` | Envia "Lista de cursos Profissionaliza - sem logo.pdf" e "... com logo.pdf" |
+| `etiquetar` (etiqueta) | `ia-fechamento` ou `ia-sem-interesse` |
+| `nota_sistema` (texto) | Nota privada marcando @Sistema (dúvida, matriz, horário pedido, cadastro recebido) |
+| `enviar_lista_cursos` | Os 2 PDFs da lista vão logo depois da mensagem |
+| `passar_para_humano` (motivo) | Atribui à Juliana, tira a etiqueta da IA e deixa nota |
 
 A configuração fica toda no topo do nó **Filtrar evento** (objeto `CFG`):
 - etiqueta, caixas, modo teste e telefones de teste;
 - modelos, janela e buffer;
-- ids (Sistema 1, Juliana 9) e etapa do Kanban;
 - agenda e nome do evento;
 - PDFs.
+
+Os ids das pessoas e a etapa do Kanban ficam no workflow de ferramentas.
 
 ### 2.2 IA Andrina | Follow-up
 
@@ -124,21 +121,18 @@ A configuração fica toda no topo do nó **Filtrar evento** (objeto `CFG`):
 
 ## 3. O que mudou no prompt na migração
 
-- As **ferramentas** do Chatwoot (etiqueta, nota, atribuir, Kanban) viraram os campos do JSON da seção **COMO RESPONDER (FORMATO OBRIGATÓRIO)**.
-- Os códigos `[[LISTA]]` e `[[REUNIAO|...]]` saíram. Agora são os campos `enviar_lista` e `reuniao`.
+- As ferramentas do Chatwoot viraram as ferramentas do agente no n8n: `marcar_reuniao`, `mover_kanban`, `etiquetar`, `nota_sistema`, `enviar_lista_cursos` e `passar_para_humano`.
+- Os códigos `[[LISTA]]` e `[[REUNIAO|...]]` saíram. Agora são as ferramentas `enviar_lista_cursos` e `marcar_reuniao`.
 - **Áudio e imagem:** a IA recebe o texto transcrito ou a descrição e responde normalmente, sem comentar que foi transcrito. Se não der para abrir, pede para o lead escrever.
-- **Dados da conversa** entram no fim, num bloco separado, para o prompt ficar em cache:
-  - nome, data e hora, resumo, horários de reunião e modo follow-up;
-  - aviso de que mensagens nossas podem ter sido escritas por alguém da equipe.
+- **Dados da conversa** entram no fim do prompt:
+  - nome, data e hora, resumo, horários de reunião (com o início pronto para a ferramenta) e modo follow-up;
+  - aviso de que "(mensagem da equipe)" é fala do nosso time.
 - **Ativação pela etiqueta:** a IA continua de onde parou ou responde PULAR se não houver nada pendente.
-- Placeholders: `{{contato}}`, `{{agora}}`, `{{resumo}}`, `{{reunioes_semana}}`, `{{isFollow}}`, `{{tentativas}}`.
-- Marcadores de TRAVA nas seções que a melhoria automática não pode mexer.
+- Marcadores de TRAVA nas seções que a melhoria automática não pode mexer. As ferramentas e o jeito de escrever a resposta também ficam travados.
 - Todo o conteúdo comercial continua igual:
   - preços, regras, lista de 224 cursos, objeções, formulário e tom da equipe;
   - cumprimento com o nome e preço só quando perguntarem;
   - certificado, cancelamento, CNPJ e presencial.
-
----
 
 ## 4. Linha do tempo dos pedidos
 
@@ -200,7 +194,11 @@ Chaves no Redis (credencial "Buffer"):
 
 | Chave | O que guarda |
 |---|---|
+| `andrina:buf:<conversa>` | Fila de mensagens do buffer |
 | `andrina:ult:<conversa>` | Última mensagem da conversa (buffer) |
+| `andrina:chat:<conversa>` | Memória do agente (credencial Memoria NV) |
+| `andrina:iamsg:<mensagem>` | Mensagens enviadas pela IA |
+| `andrina:lista:<conversa>` | Pedido de envio dos PDFs |
 | `andrina:midia:<conversa>:<mensagem>` | Texto do áudio ou da imagem |
 | `andrina:resumo:<conversa>` | Resumo da conversa |
 | `andrina:fu:<conversa>` | Tentativas de follow-up |
@@ -213,7 +211,7 @@ Chaves no Redis (credencial "Buffer"):
 2. No `CFG` do atendimento, trocar `etiqueta_ia` para `ia-liberada` e `modo_teste` para `false`.
 3. Na Config do follow-up, trocar a etiqueta para `ia-liberada`.
 4. Desativar no Chatwoot os flows 6 ("SDR Closer IA | Andrina") e 11 ("IA liga pela etiqueta ia-liberada").
-5. Ativar os 3 workflows no n8n.
+5. Ativar os workflows no n8n (agente, ferramentas, follow-up e melhoria diária).
 6. As automações 23 e 24 do Chatwoot continuam colocando `ia-liberada`.
 
 ---
