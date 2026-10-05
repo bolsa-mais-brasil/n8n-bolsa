@@ -1,0 +1,1374 @@
+{
+ "versao": 1,
+ "fonte": "Proton Drive - PROFISSIONALIZA MAIS BRASIL",
+ "atualizado_em": "2026-10-05",
+ "total": 227,
+ "listas": {
+  "com_logo": "ia-andrina/cursos/LISTA DE CURSOS - COM LOGO.pdf",
+  "sem_logo": "ia-andrina/cursos/LISTA DE CURSOS - SEM LOGO.pdf"
+ },
+ "cursos": [
+  {
+   "nome": "3D Studio Max Básico",
+   "ch": 120,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - 3D STUDIO MAX BASICO.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - 3D STUDIO MAX BASICO.pdf"
+  },
+  {
+   "nome": "Access 2016",
+   "ch": 180,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - ACCESS 2016.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - ACCESS 2016.pdf"
+  },
+  {
+   "nome": "Acompanhante Terapêutico",
+   "ch": 180,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - ACOMPANHANTE TERAPEUTICO.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - ACOMPANHANTE TERAPEUTICO.pdf"
+  },
+  {
+   "nome": "Adestramento de Cães do Caos à Obediência",
+   "ch": 130,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - ADESTRAMENTO DE CAES DO CAOS A OBEDIENCIA.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - ADESTRAMENTO DE CAES DO CAOS A OBEDIENCIA.pdf"
+  },
+  {
+   "nome": "Administração de Empresas",
+   "ch": 120,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - ADMINISTRACAO DE EMPRESAS.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - ADMINISTRACAO DE EMPRESAS.pdf"
+  },
+  {
+   "nome": "Administração de hotéis",
+   "ch": 95,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - ADMINISTRACAO DE HOTEIS.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - ADMINISTRACAO DE HOTEIS.pdf"
+  },
+  {
+   "nome": "After Effects: motion design, composição e automação",
+   "ch": 80,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - AFTER EFFECTS - MOTION DESIGN, COMPOSICAO E AUTOMACAO.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - AFTER EFFECTS - MOTION DESIGN, COMPOSICAO E AUTOMACAO.pdf"
+  },
+  {
+   "nome": "Agente Comunitário de Saúde",
+   "ch": 180,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - AGENTE COMUNITARIO DE SAUDE.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - AGENTE COMUNITARIO DE SAUDE.pdf"
+  },
+  {
+   "nome": "Agente de Combate de Endemias",
+   "ch": 180,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - AGENTE DE COMBATE DE ENDEMIAS.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - AGENTE DE COMBATE DE ENDEMIAS.pdf"
+  },
+  {
+   "nome": "Agronomia",
+   "ch": 120,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - AGRONOMIA.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - AGRONOMIA.pdf"
+  },
+  {
+   "nome": "Almoxarifado",
+   "ch": 130,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - ALMOXARIFADO.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - ALMOXARIFADO.pdf"
+  },
+  {
+   "nome": "Análises Clínicas",
+   "ch": 360,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - ANALISES CLINICAS.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - ANALISES CLINICAS.pdf"
+  },
+  {
+   "nome": "Arranjo com Balões para Iniciantes",
+   "ch": 45,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - ARRANJO COM BALOES PARA INICIANTES.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - ARRANJO COM BALOES PARA INICIANTES.pdf"
+  },
+  {
+   "nome": "Arte Floral",
+   "ch": 20,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - ARTE FLORAL.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - ARTE FLORAL.pdf"
+  },
+  {
+   "nome": "Artes",
+   "ch": 340,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - ARTES.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - ARTES.pdf"
+  },
+  {
+   "nome": "Assistente de Logística",
+   "ch": 120,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - ASSISTENTE DE LOGISTICA.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - ASSISTENTE DE LOGISTICA.pdf"
+  },
+  {
+   "nome": "Atenção Domiciliar e Home Care: Gestão, Legislação e Prática Multiprofissional",
+   "ch": 180,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - ATENCAO DOMICILIAR E HOME CARE - GESTAO, LEGISLACAO E PRATICA MULTIPROFISSIONAL.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - ATENCAO DOMICILIAR E HOME CARE - GESTAO, LEGISLACAO E PRATICA MULTIPROFISSIONAL.pdf"
+  },
+  {
+   "nome": "Atendente de Farmácia",
+   "ch": 180,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - ATENDENTE DE FARMACIA.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - ATENDENTE DE FARMACIA.pdf"
+  },
+  {
+   "nome": "Atualização em Radiologia",
+   "ch": 380,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - ATUALIZACAO EM RADIOLOGIA.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - ATUALIZACAO EM RADIOLOGIA.pdf"
+  },
+  {
+   "nome": "Auditoria Ambiental",
+   "ch": 120,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - AUDITORIA AMBIENTAL.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - AUDITORIA AMBIENTAL.pdf"
+  },
+  {
+   "nome": "Auto Cad Aplicado",
+   "ch": 80,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - AUTO CAD APLICADO.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - AUTO CAD APLICADO.pdf"
+  },
+  {
+   "nome": "Automação com Alexa",
+   "ch": 80,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - AUTOMACAO COM ALEXA.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - AUTOMACAO COM ALEXA.pdf"
+  },
+  {
+   "nome": "Auxiliar Administrativo",
+   "ch": 120,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - AUXILIAR ADMINISTRATIVO.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - AUXILIAR ADMINISTRATIVO.pdf"
+  },
+  {
+   "nome": "Auxiliar de Biblioteca",
+   "ch": 130,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - AUXILIAR DE BIBLIOTECA.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - AUXILIAR DE BIBLIOTECA.pdf"
+  },
+  {
+   "nome": "Auxiliar de Consultório Odontológico",
+   "ch": 160,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - AUXILIAR DE CONSULTORIO ODONTOLOGICO.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - AUXILIAR DE CONSULTORIO ODONTOLOGICO.pdf"
+  },
+  {
+   "nome": "Auxiliar de Creche",
+   "ch": 120,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - AUXILIAR DE CRECHE.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - AUXILIAR DE CRECHE.pdf"
+  },
+  {
+   "nome": "Auxiliar de Escritório",
+   "ch": 120,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - AUXILIAR DE ESCRITORIO.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - AUXILIAR DE ESCRITORIO.pdf"
+  },
+  {
+   "nome": "Auxiliar de necrópsia",
+   "ch": 180,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - AUXILIAR DE NECROPSIA.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - AUXILIAR DE NECROPSIA.pdf"
+  },
+  {
+   "nome": "Auxiliar de Produção",
+   "ch": 120,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - AUXILIAR DE PRODUCAO.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - AUXILIAR DE PRODUCAO.pdf"
+  },
+  {
+   "nome": "Auxiliar de Serviços Gerais",
+   "ch": 100,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - AUXILIAR DE SERVICOS GERAIS.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - AUXILIAR DE SERVICOS GERAIS.pdf"
+  },
+  {
+   "nome": "Auxiliar de Veterinária",
+   "ch": 120,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - AUXILIAR DE VETERINARIA.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - AUXILIAR DE VETERINARIA.pdf"
+  },
+  {
+   "nome": "Banho e Tosa",
+   "ch": 180,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - BANHO E TOSA.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - BANHO E TOSA.pdf"
+  },
+  {
+   "nome": "Barbeiro ( Metodo Barba Simples Espartana)",
+   "ch": 20,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - BARBEIRO ( METODO BARBA SIMPLES ESPARTANA).pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - BARBEIRO ( METODO BARBA SIMPLES ESPARTANA).pdf"
+  },
+  {
+   "nome": "Básico de Ar Condicionado Split",
+   "ch": 130,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - BASICO DE AR CONDICIONADO SPLIT.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - BASICO DE AR CONDICIONADO SPLIT.pdf"
+  },
+  {
+   "nome": "Básico de Combate a Incêndios",
+   "ch": 120,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - BASICO DE COMBATE A INCENDIOS.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - BASICO DE COMBATE A INCENDIOS.pdf"
+  },
+  {
+   "nome": "Básico Sushiman",
+   "ch": 120,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - BASICO SUSHIMAN.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - BASICO SUSHIMAN.pdf"
+  },
+  {
+   "nome": "Berçarista Infantil",
+   "ch": 180,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - BERCARISTA INFANTIL.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - BERCARISTA INFANTIL.pdf"
+  },
+  {
+   "nome": "Biologia",
+   "ch": 180,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - BIOLOGIA.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - BIOLOGIA.pdf"
+  },
+  {
+   "nome": "Bitcoin",
+   "ch": 50,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - BITCOIN.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - BITCOIN.pdf"
+  },
+  {
+   "nome": "Blender 3D",
+   "ch": 210,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - BLENDER 3D.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - BLENDER 3D.pdf"
+  },
+  {
+   "nome": "Cabeleireiro - Fundamentos e Técnicas Avançadas",
+   "ch": 180,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - CABELEIREIRO - FUNDAMENTOS E TECNICAS AVANCADAS.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - CABELEIREIRO - FUNDAMENTOS E TECNICAS AVANCADAS.pdf"
+  },
+  {
+   "nome": "Caixa com Flores",
+   "ch": 12,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - CAIXA COM FLORES.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - CAIXA COM FLORES.pdf"
+  },
+  {
+   "nome": "Camareira",
+   "ch": 120,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - CAMAREIRA.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - CAMAREIRA.pdf"
+  },
+  {
+   "nome": "Cap Cut no desktop",
+   "ch": 80,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - CAP CUT NO DESKTOP.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - CAP CUT NO DESKTOP.pdf"
+  },
+  {
+   "nome": "Capelania inter-religiosa e cuidado espiritual institucional",
+   "ch": 140,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - CAPELANIA INTER - RELIGIOSA E CUIDADO ESPIRITUAL INSTITUCIONAL.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - CAPELANIA INTER - RELIGIOSA E CUIDADO ESPIRITUAL INSTITUCIONAL.pdf"
+  },
+  {
+   "nome": "Celular para Idosos",
+   "ch": 120,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - CELULAR PARA IDOSOS.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - CELULAR PARA IDOSOS.pdf"
+  },
+  {
+   "nome": "Chefia e Liderança",
+   "ch": 160,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - CHEFIA E LIDERANCA.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - CHEFIA E LIDERANCA.pdf"
+  },
+  {
+   "nome": "Como ser um Youtuber",
+   "ch": 100,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - COMO SER UM YOUTUBER.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - COMO SER UM YOUTUBER.pdf"
+  },
+  {
+   "nome": "Como Superar Desafios Emocionais",
+   "ch": 40,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - COMO SUPERAR DESAFIOS EMOCIONAIS.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - COMO SUPERAR DESAFIOS EMOCIONAIS.pdf"
+  },
+  {
+   "nome": "Conhecimentos Bancários",
+   "ch": 240,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - CONHECIMENTOS BANCARIOS.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - CONHECIMENTOS BANCARIOS.pdf"
+  },
+  {
+   "nome": "Construção Civil",
+   "ch": 90,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - CONSTRUCAO CIVIL.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - CONSTRUCAO CIVIL.pdf"
+  },
+  {
+   "nome": "Contabilidade",
+   "ch": 180,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - CONTABILIDADE.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - CONTABILIDADE.pdf"
+  },
+  {
+   "nome": "Coordenação Pedagógica",
+   "ch": 180,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - COORDENACAO PEDAGOGICA.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - COORDENACAO PEDAGOGICA.pdf"
+  },
+  {
+   "nome": "Corel Draw X8",
+   "ch": 260,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - COREL DRAW X8.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - COREL DRAW X8.pdf"
+  },
+  {
+   "nome": "Criação de App Android e iOS",
+   "ch": 120,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - CRIACAO DE APP ANDROID E IOS.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - CRIACAO DE APP ANDROID E IOS.pdf"
+  },
+  {
+   "nome": "Criação de Game Profissional",
+   "ch": 300,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - CRIACAO DE GAME PROFISSIONAL.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - CRIACAO DE GAME PROFISSIONAL.pdf"
+  },
+  {
+   "nome": "Criação de Loja Virtual",
+   "ch": 120,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - CRIACAO DE LOJA VIRTUAL.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - CRIACAO DE LOJA VIRTUAL.pdf"
+  },
+  {
+   "nome": "Cuidador da Pessoa Idosa: Direitos, Saúde, Segurança e Humanização",
+   "ch": 230,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - CUIDADOR DA PESSOA IDOSA - DIREITOS, SAUDE, SEGURANCA E HUMANIZACAO.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - CUIDADOR DA PESSOA IDOSA - DIREITOS, SAUDE, SEGURANCA E HUMANIZACAO.pdf"
+  },
+  {
+   "nome": "Cultivo de Orquídeas",
+   "ch": 100,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - CULTIVO DE ORQUIDEAS.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - CULTIVO DE ORQUIDEAS.pdf"
+  },
+  {
+   "nome": "Curso Alongamento de Unhas",
+   "ch": 60,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - CURSO ALONGAMENTO DE UNHAS.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - CURSO ALONGAMENTO DE UNHAS.pdf"
+  },
+  {
+   "nome": "Curso Básico de Panificação",
+   "ch": 60,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - CURSO BASICO DE PANIFICACAO.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - CURSO BASICO DE PANIFICACAO.pdf"
+  },
+  {
+   "nome": "Curso de Extensão de Cílios",
+   "ch": 60,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - CURSO DE EXTENSAO DE CILIOS.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - CURSO DE EXTENSAO DE CILIOS.pdf"
+  },
+  {
+   "nome": "Curso Fitness de Alongamento Básico",
+   "ch": 20,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - CURSO FITNESS DE ALONGAMENTO BASICO.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - CURSO FITNESS DE ALONGAMENTO BASICO.pdf"
+  },
+  {
+   "nome": "Curso Livre de Educação Especial Inclusiva",
+   "ch": 180,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - CURSO LIVRE DE EDUCACAO ESPECIAL INCLUSIVA.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - CURSO LIVRE DE EDUCACAO ESPECIAL INCLUSIVA.pdf"
+  },
+  {
+   "nome": "Decoração de Unhas",
+   "ch": 60,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - DECORACAO DE UNHAS.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - DECORACAO DE UNHAS.pdf"
+  },
+  {
+   "nome": "Depilação",
+   "ch": 50,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - DEPILACAO.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - DEPILACAO.pdf"
+  },
+  {
+   "nome": "Desenho Mangá",
+   "ch": 80,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - DESENHO MANGA.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - DESENHO MANGA.pdf"
+  },
+  {
+   "nome": "Digitação",
+   "ch": 100,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - DIGITACAO.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - DIGITACAO.pdf"
+  },
+  {
+   "nome": "Direito Ambiental",
+   "ch": 120,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - DIREITO AMBIENTAL.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - DIREITO AMBIENTAL.pdf"
+  },
+  {
+   "nome": "Direito Constitucional",
+   "ch": 130,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - DIREITO CONSTITUCIONAL.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - DIREITO CONSTITUCIONAL.pdf"
+  },
+  {
+   "nome": "Direito do Consumidor",
+   "ch": 120,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - DIREITO DO CONSUMIDOR.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - DIREITO DO CONSUMIDOR.pdf"
+  },
+  {
+   "nome": "Direito do Trabalho",
+   "ch": 120,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - DIREITO DO TRABALHO.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - DIREITO DO TRABALHO.pdf"
+  },
+  {
+   "nome": "Dobra de Roupas com Gabarito",
+   "ch": 100,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - DOBRA DE ROUPAS COM GABARITO.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - DOBRA DE ROUPAS COM GABARITO.pdf"
+  },
+  {
+   "nome": "Dominando Canva - Photo Canva",
+   "ch": 80,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - DOMINANDO CANVA - PHOTO CANVA.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - DOMINANDO CANVA - PHOTO CANVA.pdf"
+  },
+  {
+   "nome": "Dropshipping",
+   "ch": 120,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - DROPSHIPPING.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - DROPSHIPPING.pdf"
+  },
+  {
+   "nome": "Edição de Vídeos Profissional no Premiere",
+   "ch": 100,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - EDICAO DE VIDEOS PROFISSIONAL NO PREMIERE.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - EDICAO DE VIDEOS PROFISSIONAL NO PREMIERE.pdf"
+  },
+  {
+   "nome": "Educação Alimentar",
+   "ch": 50,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - EDUCACAO ALIMENTAR.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - EDUCACAO ALIMENTAR.pdf"
+  },
+  {
+   "nome": "Educação Física Escolar",
+   "ch": 180,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - EDUCACAO FISICA ESCOLAR.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - EDUCACAO FISICA ESCOLAR.pdf"
+  },
+  {
+   "nome": "Educação Infantil",
+   "ch": 180,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - EDUCACAO INFANTIL.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - EDUCACAO INFANTIL.pdf"
+  },
+  {
+   "nome": "Elaboração de Currículo",
+   "ch": 360,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - ELABORACAO DE CURRICULO.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - ELABORACAO DE CURRICULO.pdf"
+  },
+  {
+   "nome": "Eletricista Predial",
+   "ch": 120,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - ELETRICISTA PREDIAL.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - ELETRICISTA PREDIAL.pdf"
+  },
+  {
+   "nome": "Embalagens Criativas",
+   "ch": 15,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - EMBALAGENS CRIATIVAS.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - EMBALAGENS CRIATIVAS.pdf"
+  },
+  {
+   "nome": "Empreendedorismo",
+   "ch": 100,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - EMPREENDEDORISMO.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - EMPREENDEDORISMO.pdf"
+  },
+  {
+   "nome": "Encanador Residencial",
+   "ch": 120,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - ENCANADOR RESIDENCIAL.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - ENCANADOR RESIDENCIAL.pdf"
+  },
+  {
+   "nome": "Energia Solar",
+   "ch": 120,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - ENERGIA SOLAR.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - ENERGIA SOLAR.pdf"
+  },
+  {
+   "nome": "Espanhol Básico",
+   "ch": 80,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - ESPANHOL BASICO.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - ESPANHOL BASICO.pdf"
+  },
+  {
+   "nome": "Estoque e Faturamento",
+   "ch": 80,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - ESTOQUE E FATURAMENTO.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - ESTOQUE E FATURAMENTO.pdf"
+  },
+  {
+   "nome": "Excel Básico e Avançado",
+   "ch": 180,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - EXCEL BASICO E AVANCADO.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - EXCEL BASICO E AVANCADO.pdf"
+  },
+  {
+   "nome": "Excel Kids",
+   "ch": 80,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - EXCEL KIDS.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - EXCEL KIDS.pdf"
+  },
+  {
+   "nome": "Exercícios para Gestante",
+   "ch": 40,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - EXERCICIOS PARA GESTANTE.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - EXERCICIOS PARA GESTANTE.pdf"
+  },
+  {
+   "nome": "Filosofia",
+   "ch": 150,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - FILOSOFIA.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - FILOSOFIA.pdf"
+  },
+  {
+   "nome": "Fiscal de Loja",
+   "ch": 80,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - FISCAL DE LOJA.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - FISCAL DE LOJA.pdf"
+  },
+  {
+   "nome": "Física",
+   "ch": 320,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - FISICA.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - FISICA.pdf"
+  },
+  {
+   "nome": "Fitness Mobilidade",
+   "ch": 20,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - FITNESS MOBILIDADE.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - FITNESS MOBILIDADE.pdf"
+  },
+  {
+   "nome": "Formação de Assistentes de Ensino no Ensino Superior: Prática Pedagógica, Avaliação, Inclusão e Desenvolvimento Profissional",
+   "ch": 180,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - FORMACAO DE ASSISTENTES DE ENSINO NO ENSINO SUPERIOR - PRATICA PEDAGOGICA, AVALIACAO, INCLUSAO E DESENVOLVIMENTO PROFISSIONAL.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - FORMACAO DE ASSISTENTES DE ENSINO NO ENSINO SUPERIOR - PRATICA PEDAGOGICA, AVALIACAO, INCLUSAO E DESENVOLVIMENTO PROFISSIONAL.pdf"
+  },
+  {
+   "nome": "Formação em Sistemas Drywall",
+   "ch": 180,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - FORMACAO EM SISTEMAS DRYWALL.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - FORMACAO EM SISTEMAS DRYWALL.pdf"
+  },
+  {
+   "nome": "Formas Organizacionais de Interesse Social",
+   "ch": 240,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - FORMAS ORGANIZACIONAIS DE INTERESSE SOCIAL.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - FORMAS ORGANIZACIONAIS DE INTERESSE SOCIAL.pdf"
+  },
+  {
+   "nome": "Frentista",
+   "ch": 360,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - FRENTISTA.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - FRENTISTA.pdf"
+  },
+  {
+   "nome": "Fundamentos da Administração e Práticas de Gestão",
+   "ch": 120,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - FUNDAMENTOS DA ADMINISTRACAO E PRATICAS DE GESTAO.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - FUNDAMENTOS DA ADMINISTRACAO E PRATICAS DE GESTAO.pdf"
+  },
+  {
+   "nome": "Fundamentos de Finanças Pessoais",
+   "ch": 130,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - FUNDAMENTOS DE FINANCAS PESSOAIS.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - FUNDAMENTOS DE FINANCAS PESSOAIS.pdf"
+  },
+  {
+   "nome": "Garçom",
+   "ch": 100,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - GARCOM.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - GARCOM.pdf"
+  },
+  {
+   "nome": "Geografia",
+   "ch": 360,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - GEOGRAFIA.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - GEOGRAFIA.pdf"
+  },
+  {
+   "nome": "Gestão de Conflitos",
+   "ch": 80,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - GESTAO DE CONFLITOS.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - GESTAO DE CONFLITOS.pdf"
+  },
+  {
+   "nome": "Gestão de Pessoas",
+   "ch": 120,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - GESTAO DE PESSOAS.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - GESTAO DE PESSOAS.pdf"
+  },
+  {
+   "nome": "Gestão Empresarial",
+   "ch": 120,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - GESTAO EMPRESARIAL.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - GESTAO EMPRESARIAL.pdf"
+  },
+  {
+   "nome": "Gestão Escolar",
+   "ch": 180,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - GESTAO ESCOLAR.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - GESTAO ESCOLAR.pdf"
+  },
+  {
+   "nome": "Gestão Estratégica de Vendas B2B",
+   "ch": 240,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - GESTAO ESTRATEGICA DE VENDAS B2B.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - GESTAO ESTRATEGICA DE VENDAS B2B.pdf"
+  },
+  {
+   "nome": "Gestão hospitalar",
+   "ch": 120,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - GESTAO HOSPITALAR.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - GESTAO HOSPITALAR.pdf"
+  },
+  {
+   "nome": "Gestão Integrada do Agronegócio",
+   "ch": 120,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - GESTAO INTEGRADA DO AGRONEGOCIO.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - GESTAO INTEGRADA DO AGRONEGOCIO.pdf"
+  },
+  {
+   "nome": "Google Adwords",
+   "ch": 80,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - GOOGLE ADWORDS.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - GOOGLE ADWORDS.pdf"
+  },
+  {
+   "nome": "Google Drive",
+   "ch": 20,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - GOOGLE DRIVE.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - GOOGLE DRIVE.pdf"
+  },
+  {
+   "nome": "História",
+   "ch": 360,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - HISTORIA.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - HISTORIA.pdf"
+  },
+  {
+   "nome": "Hotelaria e Turismo",
+   "ch": 130,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - HOTELARIA E TURISMO.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - HOTELARIA E TURISMO.pdf"
+  },
+  {
+   "nome": "HTML e CSS",
+   "ch": 180,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - HTML E CSS.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - HTML E CSS.pdf"
+  },
+  {
+   "nome": "Illustrator 2022",
+   "ch": 60,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - ILLUSTRATOR 2022.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - ILLUSTRATOR 2022.pdf"
+  },
+  {
+   "nome": "InDesign",
+   "ch": 185,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - INDESIGN.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - INDESIGN.pdf"
+  },
+  {
+   "nome": "Informática Básica",
+   "ch": 120,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - INFORMATICA BASICA.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - INFORMATICA BASICA.pdf"
+  },
+  {
+   "nome": "Inglês Básico",
+   "ch": 70,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - INGLES BASICO.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - INGLES BASICO.pdf"
+  },
+  {
+   "nome": "Iniciação à Língua Inglesa para 5 a 7 anos",
+   "ch": 100,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - INICIACAO A LINGUA INGLESA PARA 5 A 7 ANOS.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - INICIACAO A LINGUA INGLESA PARA 5 A 7 ANOS.pdf"
+  },
+  {
+   "nome": "Iniciação à Língua Inglesa para 7 a 9 anos",
+   "ch": 100,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - INICIACAO A LINGUA INGLESA PARA 7 A 9 ANOS.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - INICIACAO A LINGUA INGLESA PARA 7 A 9 ANOS.pdf"
+  },
+  {
+   "nome": "Instagram para Vendas",
+   "ch": 115,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - INSTAGRAM PARA VENDAS.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - INSTAGRAM PARA VENDAS.pdf"
+  },
+  {
+   "nome": "Inteligência Artificial aplicada a Negócios e Automação",
+   "ch": 240,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - INTELIGENCIA ARTIFICIAL APLICADA A NEGOCIOS E AUTOMACAO.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - INTELIGENCIA ARTIFICIAL APLICADA A NEGOCIOS E AUTOMACAO.pdf"
+  },
+  {
+   "nome": "Interactive English",
+   "ch": 365,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - INTERACTIVE ENGLISH.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - INTERACTIVE ENGLISH.pdf"
+  },
+  {
+   "nome": "Introdução ao Departamento Pessoal",
+   "ch": 120,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - INTRODUCAO AO DEPARTAMENTO PESSOAL.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - INTRODUCAO AO DEPARTAMENTO PESSOAL.pdf"
+  },
+  {
+   "nome": "Introdução aos Primeiros Socorros",
+   "ch": 120,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - INTRODUCAO AOS PRIMEIROS SOCORROS.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - INTRODUCAO AOS PRIMEIROS SOCORROS.pdf"
+  },
+  {
+   "nome": "Investimento no mercado financeiro",
+   "ch": 80,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - INVESTIMENTO NO MERCADO FINANCEIRO.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - INVESTIMENTO NO MERCADO FINANCEIRO.pdf"
+  },
+  {
+   "nome": "JavaScript",
+   "ch": 60,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - JAVASCRIPT.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - JAVASCRIPT.pdf"
+  },
+  {
+   "nome": "Jornalismo",
+   "ch": 120,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - JORNALISMO.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - JORNALISMO.pdf"
+  },
+  {
+   "nome": "Landing Page com o Canva",
+   "ch": 60,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - LANDING PAGE COM O CANVA.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - LANDING PAGE COM O CANVA.pdf"
+  },
+  {
+   "nome": "Lei Lucas - Curso de Primeiros Socorros e Prevenção de Acidentes na Infância",
+   "ch": 180,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - LEI LUCAS - CURSO DE PRIMEIROS SOCORROS E PREVENCAO DE ACIDENTES NA INFANCIA.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - LEI LUCAS - CURSO DE PRIMEIROS SOCORROS E PREVENCAO DE ACIDENTES NA INFANCIA.pdf"
+  },
+  {
+   "nome": "Libras",
+   "ch": 360,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - LIBRAS.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - LIBRAS.pdf"
+  },
+  {
+   "nome": "Limpeza de pele",
+   "ch": 80,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - LIMPEZA DE PELE.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - LIMPEZA DE PELE.pdf"
+  },
+  {
+   "nome": "Linkedin do Zero à Presença Profissional",
+   "ch": 120,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - LINKEDIN DO ZERO A PRESENCA PROFISSIONAL.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - LINKEDIN DO ZERO A PRESENCA PROFISSIONAL.pdf"
+  },
+  {
+   "nome": "Linux",
+   "ch": 280,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - LINUX.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - LINUX.pdf"
+  },
+  {
+   "nome": "Literatura",
+   "ch": 120,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - LITERATURA.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - LITERATURA.pdf"
+  },
+  {
+   "nome": "Lógica de Programação",
+   "ch": 90,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - LOGICA DE PROGRAMACAO.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - LOGICA DE PROGRAMACAO.pdf"
+  },
+  {
+   "nome": "Logística 4.0",
+   "ch": 145,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - LOGISTICA 4.0.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - LOGISTICA 4.0.pdf"
+  },
+  {
+   "nome": "Macramê do Intermediário ao Avançado",
+   "ch": 60,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - MACRAME DO INTERMEDIARIO AO AVANCADO.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - MACRAME DO INTERMEDIARIO AO AVANCADO.pdf"
+  },
+  {
+   "nome": "Manicure e Pedicure",
+   "ch": 20,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - MANICURE E PEDICURE (20H).pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - MANICURE E PEDICURE (20H).pdf"
+  },
+  {
+   "nome": "Manicure e Pedicure",
+   "ch": 385,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - MANICURE E PEDICURE (385H).pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - MANICURE E PEDICURE (385H).pdf"
+  },
+  {
+   "nome": "Manicure e Pedicure Masculino",
+   "ch": 20,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - MANICURE E PEDICURE MASCULINO.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - MANICURE E PEDICURE MASCULINO.pdf"
+  },
+  {
+   "nome": "Manutenção de Celular Básico ao Avançado",
+   "ch": 375,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - MANUTENCAO DE CELULAR BASICO AO AVANCADO.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - MANUTENCAO DE CELULAR BASICO AO AVANCADO.pdf"
+  },
+  {
+   "nome": "Manutenção de Piscinas",
+   "ch": 50,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - MANUTENCAO DE PISCINAS.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - MANUTENCAO DE PISCINAS.pdf"
+  },
+  {
+   "nome": "Manutenção e Diagnóstico de Ferramentas Elétricas Portáteis",
+   "ch": 120,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - MANUTENCAO E DIAGNOSTICO DE FERRAMENTAS ELETRICAS PORTATEIS.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - MANUTENCAO E DIAGNOSTICO DE FERRAMENTAS ELETRICAS PORTATEIS.pdf"
+  },
+  {
+   "nome": "Maquiagem Profissional: Técnica, Visagismo e Atuação Segura",
+   "ch": 360,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - MAQUIAGEM PROFISSIONAL - TECNICA, VISAGISMO E ATUACAO SEGURA.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - MAQUIAGEM PROFISSIONAL - TECNICA, VISAGISMO E ATUACAO SEGURA.pdf"
+  },
+  {
+   "nome": "Marketing Digital",
+   "ch": 120,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - MARKETING DIGITAL.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - MARKETING DIGITAL.pdf"
+  },
+  {
+   "nome": "Marketing Estratégico para Pequenas e Médias Empresas",
+   "ch": 250,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - MARKETING ESTRATEGICO PARA PEQUENAS E MEDIAS EMPRESAS.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - MARKETING ESTRATEGICO PARA PEQUENAS E MEDIAS EMPRESAS.pdf"
+  },
+  {
+   "nome": "Marmita Fitness",
+   "ch": 50,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - MARMITA FITNESS.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - MARMITA FITNESS.pdf"
+  },
+  {
+   "nome": "Massagem Modeladora",
+   "ch": 326,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - MASSAGEM MODELADORA.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - MASSAGEM MODELADORA.pdf"
+  },
+  {
+   "nome": "Matemática",
+   "ch": 365,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - MATEMATICA.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - MATEMATICA.pdf"
+  },
+  {
+   "nome": "Matemática financeira",
+   "ch": 80,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - MATEMATICA FINANCEIRA.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - MATEMATICA FINANCEIRA.pdf"
+  },
+  {
+   "nome": "Matemática para Enem",
+   "ch": 345,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - MATEMATICA PARA ENEM.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - MATEMATICA PARA ENEM.pdf"
+  },
+  {
+   "nome": "Mediador Escolar",
+   "ch": 120,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - MEDIADOR ESCOLAR.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - MEDIADOR ESCOLAR.pdf"
+  },
+  {
+   "nome": "MEI na Prática Formalização Segura e Primeiros Passos",
+   "ch": 60,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - MEI NA PRATICA FORMALIZACAO SEGURA E PRIMEIROS PASSOS.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - MEI NA PRATICA FORMALIZACAO SEGURA E PRIMEIROS PASSOS.pdf"
+  },
+  {
+   "nome": "Merendeira Escolar",
+   "ch": 120,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - MERENDEIRA ESCOLAR.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - MERENDEIRA ESCOLAR.pdf"
+  },
+  {
+   "nome": "Mesa Posta",
+   "ch": 100,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - MESA POSTA.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - MESA POSTA.pdf"
+  },
+  {
+   "nome": "Mestre de Obras: Gestão, Execução, Qualidade e Segurança",
+   "ch": 80,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - MESTRE DE OBRAS - GESTAO, EXECUCAO, QUALIDADE E SEGURANCA.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - MESTRE DE OBRAS - GESTAO, EXECUCAO, QUALIDADE E SEGURANCA.pdf"
+  },
+  {
+   "nome": "Microsoft Word",
+   "ch": 120,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - MICROSOFT WORD.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - MICROSOFT WORD.pdf"
+  },
+  {
+   "nome": "Mídias sociais",
+   "ch": 110,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - MIDIAS SOCIAIS.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - MIDIAS SOCIAIS.pdf"
+  },
+  {
+   "nome": "Molde F1",
+   "ch": 20,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - MOLDE F1.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - MOLDE F1.pdf"
+  },
+  {
+   "nome": "Montagem e Manutenção de PC",
+   "ch": 352,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - MONTAGEM E MANUTENCAO DE PC.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - MONTAGEM E MANUTENCAO DE PC.pdf"
+  },
+  {
+   "nome": "NR-10",
+   "ch": 90,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - NR - 10.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - NR - 10.pdf"
+  },
+  {
+   "nome": "NR-33",
+   "ch": 90,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - NR - 33.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - NR - 33.pdf"
+  },
+  {
+   "nome": "NR-34",
+   "ch": 105,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - NR - 34.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - NR - 34.pdf"
+  },
+  {
+   "nome": "NR-35",
+   "ch": 45,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - NR - 35.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - NR - 35.pdf"
+  },
+  {
+   "nome": "O Pentateuco: Texto, Teologia e Ensino",
+   "ch": 180,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - O PENTATEUCO - TEXTO, TEOLOGIA E ENSINO.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - O PENTATEUCO - TEXTO, TEOLOGIA E ENSINO.pdf"
+  },
+  {
+   "nome": "Operação de Máquinas Ágricolas",
+   "ch": 360,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - OPERACAO DE MAQUINAS AGRICOLAS.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - OPERACAO DE MAQUINAS AGRICOLAS.pdf"
+  },
+  {
+   "nome": "Operador de Caixa",
+   "ch": 125,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - OPERADOR DE CAIXA.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - OPERADOR DE CAIXA.pdf"
+  },
+  {
+   "nome": "Operador de CFTV",
+   "ch": 70,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - OPERADOR DE CFTV.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - OPERADOR DE CFTV.pdf"
+  },
+  {
+   "nome": "Operador de Drones",
+   "ch": 360,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - OPERADOR DE DRONES.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - OPERADOR DE DRONES.pdf"
+  },
+  {
+   "nome": "Operador de Empilhadeira",
+   "ch": 60,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - OPERADOR DE EMPILHADEIRA.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - OPERADOR DE EMPILHADEIRA.pdf"
+  },
+  {
+   "nome": "Operador de Podcast",
+   "ch": 60,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - OPERADOR DE PODCAST.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - OPERADOR DE PODCAST.pdf"
+  },
+  {
+   "nome": "Operador de Telemarketing",
+   "ch": 100,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - OPERADOR DE TELEMARKETING.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - OPERADOR DE TELEMARKETING.pdf"
+  },
+  {
+   "nome": "Oratória",
+   "ch": 120,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - ORATORIA.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - ORATORIA.pdf"
+  },
+  {
+   "nome": "Pá Carregadeira",
+   "ch": 55,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - PA CARREGADEIRA.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - PA CARREGADEIRA.pdf"
+  },
+  {
+   "nome": "Pacote Office",
+   "ch": 80,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - PACOTE OFFICE.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - PACOTE OFFICE.pdf"
+  },
+  {
+   "nome": "Pequenos Reparos Domésticos - Marido de Aluguel",
+   "ch": 120,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - PEQUENOS REPAROS DOMESTICOS - MARIDO DE ALUGUEL.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - PEQUENOS REPAROS DOMESTICOS - MARIDO DE ALUGUEL.pdf"
+  },
+  {
+   "nome": "Personal Organizer",
+   "ch": 120,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - PERSONAL ORGANIZER.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - PERSONAL ORGANIZER.pdf"
+  },
+  {
+   "nome": "Photo Smart",
+   "ch": 22,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - PHOTO SMART.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - PHOTO SMART.pdf"
+  },
+  {
+   "nome": "PhotoShop CC",
+   "ch": 22,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - PHOTOSHOP CC.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - PHOTOSHOP CC.pdf"
+  },
+  {
+   "nome": "PHP: Do Básico ao Avançado",
+   "ch": 180,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - PHP - DO BASICO AO AVANCADO.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - PHP - DO BASICO AO AVANCADO.pdf"
+  },
+  {
+   "nome": "Pintor",
+   "ch": 80,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - PINTOR.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - PINTOR.pdf"
+  },
+  {
+   "nome": "Pisos em Resina Epóxi",
+   "ch": 114,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - PISOS EM RESINA EPOXI.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - PISOS EM RESINA EPOXI.pdf"
+  },
+  {
+   "nome": "Pizzaiolo",
+   "ch": 180,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - PIZZAIOLO.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - PIZZAIOLO.pdf"
+  },
+  {
+   "nome": "Ponte Rolante",
+   "ch": 96,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - PONTE ROLANTE.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - PONTE ROLANTE.pdf"
+  },
+  {
+   "nome": "Porteiro",
+   "ch": 100,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - PORTEIRO.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - PORTEIRO.pdf"
+  },
+  {
+   "nome": "Português",
+   "ch": 185,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - PORTUGUES.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - PORTUGUES.pdf"
+  },
+  {
+   "nome": "Português para Estrangeiros",
+   "ch": 360,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - PORTUGUES PARA ESTRANGEIROS.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - PORTUGUES PARA ESTRANGEIROS.pdf"
+  },
+  {
+   "nome": "Power Bi",
+   "ch": 30,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - POWER BI (30H).pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - POWER BI (30H).pdf"
+  },
+  {
+   "nome": "Power BI",
+   "ch": 60,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - POWER BI (60H).pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - POWER BI (60H).pdf"
+  },
+  {
+   "nome": "Power Point",
+   "ch": 80,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - POWER POINT.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - POWER POINT.pdf"
+  },
+  {
+   "nome": "Preparatório para Corretor de Imóveis",
+   "ch": 160,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - PREPARATORIO PARA CORRETOR DE IMOVEIS.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - PREPARATORIO PARA CORRETOR DE IMOVEIS.pdf"
+  },
+  {
+   "nome": "Profissional de Apoio Escolar para Alunos Neurodivergentes",
+   "ch": 180,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - PROFISSIONAL DE APOIO ESCOLAR PARA ALUNOS NEURODIVERGENTES.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - PROFISSIONAL DE APOIO ESCOLAR PARA ALUNOS NEURODIVERGENTES.pdf"
+  },
+  {
+   "nome": "Programação de sites Wordpress",
+   "ch": 100,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - PROGRAMACAO DE SITES WORDPRESS.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - PROGRAMACAO DE SITES WORDPRESS.pdf"
+  },
+  {
+   "nome": "Psicopedagogia",
+   "ch": 220,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - PSICOPEDAGOGIA.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - PSICOPEDAGOGIA.pdf"
+  },
+  {
+   "nome": "Química",
+   "ch": 290,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - QUIMICA.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - QUIMICA.pdf"
+  },
+  {
+   "nome": "Receitas Low Carb",
+   "ch": 20,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - RECEITAS LOW CARB.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - RECEITAS LOW CARB.pdf"
+  },
+  {
+   "nome": "Receitas para Diabéticos",
+   "ch": 12,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - RECEITAS PARA DIABETICOS.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - RECEITAS PARA DIABETICOS.pdf"
+  },
+  {
+   "nome": "Recepcionista",
+   "ch": 50,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - RECEPCIONISTA.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - RECEPCIONISTA.pdf"
+  },
+  {
+   "nome": "Recepcionista de Hotel",
+   "ch": 120,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - RECEPCIONISTA DE HOTEL.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - RECEPCIONISTA DE HOTEL.pdf"
+  },
+  {
+   "nome": "Recepcionista Hospitalar",
+   "ch": 180,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - RECEPCIONISTA HOSPITALAR.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - RECEPCIONISTA HOSPITALAR.pdf"
+  },
+  {
+   "nome": "Recursos Humanos",
+   "ch": 180,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - RECURSOS HUMANOS.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - RECURSOS HUMANOS.pdf"
+  },
+  {
+   "nome": "Retroescavadeira",
+   "ch": 30,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - RETROESCAVADEIRA.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - RETROESCAVADEIRA.pdf"
+  },
+  {
+   "nome": "Robótica",
+   "ch": 95,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - ROBOTICA.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - ROBOTICA.pdf"
+  },
+  {
+   "nome": "Secretariado Escolar",
+   "ch": 180,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - SECRETARIADO ESCOLAR.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - SECRETARIADO ESCOLAR.pdf"
+  },
+  {
+   "nome": "Segurança na Internet",
+   "ch": 240,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - SEGURANCA NA INTERNET.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - SEGURANCA NA INTERNET.pdf"
+  },
+  {
+   "nome": "Síndico Profissional",
+   "ch": 150,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - SINDICO PROFISSIONAL.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - SINDICO PROFISSIONAL.pdf"
+  },
+  {
+   "nome": "SketchUp",
+   "ch": 150,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - SKETCHUP.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - SKETCHUP.pdf"
+  },
+  {
+   "nome": "Sociologia",
+   "ch": 120,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - SOCIOLOGIA.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - SOCIOLOGIA.pdf"
+  },
+  {
+   "nome": "Socorrista APH",
+   "ch": 180,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - SOCORRISTA APH.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - SOCORRISTA APH.pdf"
+  },
+  {
+   "nome": "Solda MIG/MAG",
+   "ch": 80,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - SOLDA MIGMAG.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - SOLDA MIGMAG.pdf"
+  },
+  {
+   "nome": "Solda TIG",
+   "ch": 80,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - SOLDA TIG.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - SOLDA TIG.pdf"
+  },
+  {
+   "nome": "Spa dos Pés",
+   "ch": 25,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - SPA DOS PES.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - SPA DOS PES.pdf"
+  },
+  {
+   "nome": "Supervisão Pedagógica",
+   "ch": 140,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - SUPERVISAO PEDAGOGICA.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - SUPERVISAO PEDAGOGICA.pdf"
+  },
+  {
+   "nome": "TBO - Treinamento Básico Operacional",
+   "ch": 96,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - TBO - TREINAMENTO BASICO OPERACIONAL.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - TBO - TREINAMENTO BASICO OPERACIONAL.pdf"
+  },
+  {
+   "nome": "Técnica de vendas",
+   "ch": 60,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - TECNICA DE VENDAS.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - TECNICA DE VENDAS.pdf"
+  },
+  {
+   "nome": "Técnicas de Redação",
+   "ch": 154,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - TECNICAS DE REDACAO.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - TECNICAS DE REDACAO.pdf"
+  },
+  {
+   "nome": "Teologia Histórica",
+   "ch": 160,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - TEOLOGIA HISTORICA.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - TEOLOGIA HISTORICA.pdf"
+  },
+  {
+   "nome": "Vigia escolar",
+   "ch": 120,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - VIGIA ESCOLAR.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - VIGIA ESCOLAR.pdf"
+  },
+  {
+   "nome": "Violão Popular",
+   "ch": 120,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - VIOLAO POPULAR.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - VIOLAO POPULAR.pdf"
+  },
+  {
+   "nome": "WhatsApp Business",
+   "ch": 50,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - WHATSAPP BUSINESS.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - WHATSAPP BUSINESS.pdf"
+  },
+  {
+   "nome": "Windows 10",
+   "ch": 375,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - WINDOWS 10.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - WINDOWS 10.pdf"
+  },
+  {
+   "nome": "Windows 11",
+   "ch": 120,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - WINDOWS 11.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - WINDOWS 11.pdf"
+  },
+  {
+   "nome": "Windows 11 Kids",
+   "ch": 180,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - WINDOWS 11 KIDS.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - WINDOWS 11 KIDS.pdf"
+  },
+  {
+   "nome": "Word Kids",
+   "ch": 40,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - WORD KIDS.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - WORD KIDS.pdf"
+  },
+  {
+   "nome": "WordPress V2",
+   "ch": 360,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - WORDPRESS V2.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - WORDPRESS V2.pdf"
+  },
+  {
+   "nome": "Zelador Predial",
+   "ch": 80,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - ZELADOR PREDIAL.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - ZELADOR PREDIAL.pdf"
+  }
+ ]
+}
