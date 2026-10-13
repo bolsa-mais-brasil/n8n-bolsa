@@ -1,8 +1,8 @@
 {
  "versao": 1,
  "fonte": "Proton Drive - PROFISSIONALIZA MAIS BRASIL",
- "atualizado_em": "2026-10-05",
- "total": 227,
+ "atualizado_em": "2026-10-13",
+ "total": 231,
  "listas": {
   "com_logo": "ia-andrina/cursos/LISTA DE CURSOS - COM LOGO.pdf",
   "sem_logo": "ia-andrina/cursos/LISTA DE CURSOS - SEM LOGO.pdf"
@@ -55,6 +55,12 @@
    "ch": 180,
    "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - AGENTE COMUNITARIO DE SAUDE.pdf",
    "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - AGENTE COMUNITARIO DE SAUDE.pdf"
+  },
+  {
+   "nome": "Agente Comunitário de Saúde no SUS",
+   "ch": 200,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - AGENTE COMUNITARIO DE SAUDE NO SUS.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - AGENTE COMUNITARIO DE SAUDE NO SUS.pdf"
   },
   {
    "nome": "Agente de Combate de Endemias",
@@ -160,7 +166,7 @@
   },
   {
    "nome": "Auxiliar de Creche",
-   "ch": 120,
+   "ch": 180,
    "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - AUXILIAR DE CRECHE.pdf",
    "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - AUXILIAR DE CRECHE.pdf"
   },
@@ -201,10 +207,10 @@
    "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - BANHO E TOSA.pdf"
   },
   {
-   "nome": "Barbeiro ( Metodo Barba Simples Espartana)",
+   "nome": "Barbeiro (Metodo Barba Simples Espartana)",
    "ch": 20,
-   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - BARBEIRO ( METODO BARBA SIMPLES ESPARTANA).pdf",
-   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - BARBEIRO ( METODO BARBA SIMPLES ESPARTANA).pdf"
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - BARBEIRO (METODO BARBA SIMPLES ESPARTANA).pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - BARBEIRO (METODO BARBA SIMPLES ESPARTANA).pdf"
   },
   {
    "nome": "Básico de Ar Condicionado Split",
@@ -217,6 +223,12 @@
    "ch": 120,
    "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - BASICO DE COMBATE A INCENDIOS.pdf",
    "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - BASICO DE COMBATE A INCENDIOS.pdf"
+  },
+  {
+   "nome": "Básico em Teologia",
+   "ch": 120,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - BASICO EM TEOLOGIA.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - BASICO EM TEOLOGIA.pdf"
   },
   {
    "nome": "Básico Sushiman",
@@ -241,6 +253,12 @@
    "ch": 50,
    "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - BITCOIN.pdf",
    "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - BITCOIN.pdf"
+  },
+  {
+   "nome": "Bitcoin Sistemas Monetários Criptografia e Arquiteturas Descentralizadas",
+   "ch": 96,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - BITCOIN SISTEMAS MONETARIOS CRIPTOGRAFIA E ARQUITETURAS DESCENTRALIZADAS.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - BITCOIN SISTEMAS MONETARIOS CRIPTOGRAFIA E ARQUITETURAS DESCENTRALIZADAS.pdf"
   },
   {
    "nome": "Blender 3D",
@@ -409,6 +427,12 @@
    "ch": 80,
    "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - DESENHO MANGA.pdf",
    "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - DESENHO MANGA.pdf"
+  },
+  {
+   "nome": "Designer de Cílios & Sobrancelha",
+   "ch": 80,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - DESIGNER DE CILIOS & SOBRANCELHA.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - DESIGNER DE CILIOS & SOBRANCELHA.pdf"
   },
   {
    "nome": "Digitação",
