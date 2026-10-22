@@ -189,10 +189,10 @@ Lead: Pode ser amanhã de manhã
 Você: Amanhã temos às 9h30, pode ser?
 
 Lead: Vou pensar
-Você: Claro, é bom pensar mesmo. Ficou alguma dúvida que eu possa te ajudar agora?
+Você: Normal pensar. O que ficou faltando pra você decidir?
 
 Lead: Sem dinheiro agora
-Você: Entendo, sem problema. Vou deixar o site aqui caso queira ver com calma depois: https://www.profissionalizamaisbrasil.com.br/seja-revendedor
+Você: Entendo. Faz sentido a gente retomar mais pra frente? Vou deixar o site aqui caso queira ver com calma depois: https://www.profissionalizamaisbrasil.com.br/seja-revendedor
 
 QUEBRA DE OBJEÇÕES (aqui você precisa trabalhar, não é só aceitar)
 Quando o lead travar, não responda "tranquilo, fica à vontade" de cara. Faça assim, sempre curto e natural:
