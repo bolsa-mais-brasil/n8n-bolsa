@@ -1,8 +1,8 @@
 {
  "versao": 1,
  "fonte": "Proton Drive - PROFISSIONALIZA MAIS BRASIL",
- "atualizado_em": "2026-10-13",
- "total": 231,
+ "atualizado_em": "2026-10-28",
+ "total": 241,
  "listas": {
   "com_logo": "ia-andrina/cursos/LISTA DE CURSOS - COM LOGO.pdf",
   "sem_logo": "ia-andrina/cursos/LISTA DE CURSOS - SEM LOGO.pdf"
@@ -67,6 +67,12 @@
    "ch": 180,
    "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - AGENTE DE COMBATE DE ENDEMIAS.pdf",
    "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - AGENTE DE COMBATE DE ENDEMIAS.pdf"
+  },
+  {
+   "nome": "Agente de Portaria",
+   "ch": 150,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - AGENTE DE PORTARIA.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - AGENTE DE PORTARIA.pdf"
   },
   {
    "nome": "Agronomia",
@@ -267,6 +273,12 @@
    "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - BLENDER 3D.pdf"
   },
   {
+   "nome": "Blender 3D Produção Completa de Personagens e Cenas Animadas",
+   "ch": 120,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - BLENDER 3D PRODUCAO COMPLETA DE PERSONAGENS E CENAS ANIMADAS.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - BLENDER 3D PRODUCAO COMPLETA DE PERSONAGENS E CENAS ANIMADAS.pdf"
+  },
+  {
    "nome": "Cabeleireiro - Fundamentos e Técnicas Avançadas",
    "ch": 180,
    "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - CABELEIREIRO - FUNDAMENTOS E TECNICAS AVANCADAS.pdf",
@@ -307,6 +319,12 @@
    "ch": 160,
    "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - CHEFIA E LIDERANCA.pdf",
    "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - CHEFIA E LIDERANCA.pdf"
+  },
+  {
+   "nome": "Claude e Agentes de IA",
+   "ch": 120,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - CLAUDE E AGENTES DE IA.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - CLAUDE E AGENTES DE IA.pdf"
   },
   {
    "nome": "Como ser um Youtuber",
@@ -645,6 +663,12 @@
    "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - GEOGRAFIA.pdf"
   },
   {
+   "nome": "Geopolítica e Globalização: Poder, Territórios e Ordem Mundial",
+   "ch": 160,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - GEOPOLITICA E GLOBALIZACAO - PODER, TERRITORIOS E ORDEM MUNDIAL.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - GEOPOLITICA E GLOBALIZACAO - PODER, TERRITORIOS E ORDEM MUNDIAL.pdf"
+  },
+  {
    "nome": "Gestão de Conflitos",
    "ch": 80,
    "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - GESTAO DE CONFLITOS.pdf",
@@ -685,6 +709,12 @@
    "ch": 120,
    "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - GESTAO INTEGRADA DO AGRONEGOCIO.pdf",
    "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - GESTAO INTEGRADA DO AGRONEGOCIO.pdf"
+  },
+  {
+   "nome": "Gestão Pedagógica Estrategica",
+   "ch": 80,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - GESTAO PEDAGOGICA ESTRATEGICA.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - GESTAO PEDAGOGICA ESTRATEGICA.pdf"
   },
   {
    "nome": "Google Adwords",
@@ -975,6 +1005,12 @@
    "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - MESTRE DE OBRAS - GESTAO, EXECUCAO, QUALIDADE E SEGURANCA.pdf"
   },
   {
+   "nome": "Microsoft Access Intermediário",
+   "ch": 152,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - MICROSOFT ACCESS INTERMEDIARIO.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - MICROSOFT ACCESS INTERMEDIARIO.pdf"
+  },
+  {
    "nome": "Microsoft Word",
    "ch": 120,
    "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - MICROSOFT WORD.pdf",
@@ -1084,7 +1120,7 @@
   },
   {
    "nome": "Pacote Office",
-   "ch": 80,
+   "ch": 200,
    "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - PACOTE OFFICE.pdf",
    "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - PACOTE OFFICE.pdf"
   },
@@ -1179,6 +1215,18 @@
    "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - POWER POINT.pdf"
   },
   {
+   "nome": "Prática Contábil no Brasil",
+   "ch": 160,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - PRATICA CONTABIL NO BRASIL.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - PRATICA CONTABIL NO BRASIL.pdf"
+  },
+  {
+   "nome": "Práticas Contábeis Auto Instrucional",
+   "ch": 160,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - PRATICAS CONTABEIS AUTO INSTRUCIONAL.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - PRATICAS CONTABEIS AUTO INSTRUCIONAL.pdf"
+  },
+  {
    "nome": "Preparatório para Corretor de Imóveis",
    "ch": 160,
    "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - PREPARATORIO PARA CORRETOR DE IMOVEIS.pdf",
@@ -1255,6 +1303,12 @@
    "ch": 95,
    "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - ROBOTICA.pdf",
    "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - ROBOTICA.pdf"
+  },
+  {
+   "nome": "Saneamento e Higiene Ambiental em Serviços de Saúde",
+   "ch": 120,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - SANEAMENTO E HIGIENE AMBIENTAL EM SERVICOS DE SAUDE.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - SANEAMENTO E HIGIENE AMBIENTAL EM SERVICOS DE SAUDE.pdf"
   },
   {
    "nome": "Secretariado Escolar",
@@ -1339,6 +1393,12 @@
    "ch": 160,
    "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - TEOLOGIA HISTORICA.pdf",
    "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - TEOLOGIA HISTORICA.pdf"
+  },
+  {
+   "nome": "Terapia Sistêmica Familiar",
+   "ch": 160,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - TERAPIA SISTEMICA FAMILIAR.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - TERAPIA SISTEMICA FAMILIAR.pdf"
   },
   {
    "nome": "Vigia escolar",
