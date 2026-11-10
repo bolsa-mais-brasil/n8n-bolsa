@@ -1,8 +1,8 @@
 {
  "versao": 1,
  "fonte": "Proton Drive - PROFISSIONALIZA MAIS BRASIL",
- "atualizado_em": "2026-10-28",
- "total": 241,
+ "atualizado_em": "2026-11-09",
+ "total": 259,
  "listas": {
   "com_logo": "ia-andrina/cursos/LISTA DE CURSOS - COM LOGO.pdf",
   "sem_logo": "ia-andrina/cursos/LISTA DE CURSOS - SEM LOGO.pdf"
@@ -43,6 +43,12 @@
    "ch": 95,
    "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - ADMINISTRACAO DE HOTEIS.pdf",
    "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - ADMINISTRACAO DE HOTEIS.pdf"
+  },
+  {
+   "nome": "Administração Mercado de trabalho",
+   "ch": 210,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - ADMINISTRACAO MERCADO DE TRABALHO.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - ADMINISTRACAO MERCADO DE TRABALHO.pdf"
   },
   {
    "nome": "After Effects: motion design, composição e automação",
@@ -109,6 +115,12 @@
    "ch": 340,
    "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - ARTES.pdf",
    "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - ARTES.pdf"
+  },
+  {
+   "nome": "Artes e Literatura para o Enem",
+   "ch": 120,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - ARTES E LITERATURA PARA O ENEM.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - ARTES E LITERATURA PARA O ENEM.pdf"
   },
   {
    "nome": "Assistente de Logística",
@@ -253,6 +265,12 @@
    "ch": 180,
    "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - BIOLOGIA.pdf",
    "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - BIOLOGIA.pdf"
+  },
+  {
+   "nome": "Biologia para o Enem",
+   "ch": 160,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - BIOLOGIA PARA O ENEM.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - BIOLOGIA PARA O ENEM.pdf"
   },
   {
    "nome": "Bitcoin",
@@ -519,6 +537,12 @@
    "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - EDUCACAO FISICA ESCOLAR.pdf"
   },
   {
+   "nome": "Educação Física para o Enem",
+   "ch": 180,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - EDUCACAO FISICA PARA O ENEM.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - EDUCACAO FISICA PARA O ENEM.pdf"
+  },
+  {
    "nome": "Educação Infantil",
    "ch": 180,
    "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - EDUCACAO INFANTIL.pdf",
@@ -567,6 +591,12 @@
    "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - ESPANHOL BASICO.pdf"
   },
   {
+   "nome": "Espanhol para o Enem",
+   "ch": 180,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - ESPANHOL PARA O ENEM.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - ESPANHOL PARA O ENEM.pdf"
+  },
+  {
    "nome": "Estoque e Faturamento",
    "ch": 80,
    "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - ESTOQUE E FATURAMENTO.pdf",
@@ -595,6 +625,12 @@
    "ch": 150,
    "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - FILOSOFIA.pdf",
    "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - FILOSOFIA.pdf"
+  },
+  {
+   "nome": "Filosofia para o Enem",
+   "ch": 180,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - FILOSOFIA PARA O ENEM.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - FILOSOFIA PARA O ENEM.pdf"
   },
   {
    "nome": "Fiscal de Loja",
@@ -651,6 +687,12 @@
    "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - FUNDAMENTOS DE FINANCAS PESSOAIS.pdf"
   },
   {
+   "nome": "Fundamentos do Desenvolvimento de Jogos",
+   "ch": 120,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - FUNDAMENTOS DO DESENVOLVIMENTO DE JOGOS.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - FUNDAMENTOS DO DESENVOLVIMENTO DE JOGOS.pdf"
+  },
+  {
    "nome": "Garçom",
    "ch": 100,
    "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - GARCOM.pdf",
@@ -661,6 +703,12 @@
    "ch": 360,
    "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - GEOGRAFIA.pdf",
    "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - GEOGRAFIA.pdf"
+  },
+  {
+   "nome": "Geografia para o Enem",
+   "ch": 140,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - GEOGRAFIA PARA O ENEM.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - GEOGRAFIA PARA O ENEM.pdf"
   },
   {
    "nome": "Geopolítica e Globalização: Poder, Territórios e Ordem Mundial",
@@ -735,6 +783,12 @@
    "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - HISTORIA.pdf"
   },
   {
+   "nome": "História para o Enem",
+   "ch": 210,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - HISTORIA PARA O ENEM.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - HISTORIA PARA O ENEM.pdf"
+  },
+  {
    "nome": "Hotelaria e Turismo",
    "ch": 130,
    "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - HOTELARIA E TURISMO.pdf",
@@ -771,6 +825,18 @@
    "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - INGLES BASICO.pdf"
   },
   {
+   "nome": "Inglês para o Enem",
+   "ch": 180,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - INGLES PARA O ENEM.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - INGLES PARA O ENEM.pdf"
+  },
+  {
+   "nome": "Inglês para o Mercado Imobiliário",
+   "ch": 160,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - INGLES PARA O MERCADO IMOBILIARIO.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - INGLES PARA O MERCADO IMOBILIARIO.pdf"
+  },
+  {
    "nome": "Iniciação à Língua Inglesa para 5 a 7 anos",
    "ch": 100,
    "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - INICIACAO A LINGUA INGLESA PARA 5 A 7 ANOS.pdf",
@@ -787,6 +853,12 @@
    "ch": 115,
    "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - INSTAGRAM PARA VENDAS.pdf",
    "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - INSTAGRAM PARA VENDAS.pdf"
+  },
+  {
+   "nome": "Instalação e Manutenção de Energia Solar",
+   "ch": 140,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - INSTALACAO E MANUTENCAO DE ENERGIA SOLAR.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - INSTALACAO E MANUTENCAO DE ENERGIA SOLAR.pdf"
   },
   {
    "nome": "Inteligência Artificial aplicada a Negócios e Automação",
@@ -915,6 +987,12 @@
    "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - MANUTENCAO DE CELULAR BASICO AO AVANCADO.pdf"
   },
   {
+   "nome": "Manutenção de Celulares Android e iOS",
+   "ch": 360,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - MANUTENCAO DE CELULARES ANDROID E IOS.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - MANUTENCAO DE CELULARES ANDROID E IOS.pdf"
+  },
+  {
    "nome": "Manutenção de Piscinas",
    "ch": 50,
    "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - MANUTENCAO DE PISCINAS.pdf",
@@ -945,6 +1023,12 @@
    "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - MARKETING ESTRATEGICO PARA PEQUENAS E MEDIAS EMPRESAS.pdf"
   },
   {
+   "nome": "Marketing Imobiliário Estratégico e Digital",
+   "ch": 140,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - MARKETING IMOBILIARIO ESTRATEGICO E DIGITAL.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - MARKETING IMOBILIARIO ESTRATEGICO E DIGITAL.pdf"
+  },
+  {
    "nome": "Marmita Fitness",
    "ch": 50,
    "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - MARMITA FITNESS.pdf",
@@ -973,6 +1057,12 @@
    "ch": 345,
    "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - MATEMATICA PARA ENEM.pdf",
    "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - MATEMATICA PARA ENEM.pdf"
+  },
+  {
+   "nome": "Matemática para o Enem",
+   "ch": 128,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - MATEMATICA PARA O ENEM.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - MATEMATICA PARA O ENEM.pdf"
   },
   {
    "nome": "Mediador Escolar",
@@ -1065,7 +1155,7 @@
    "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - O PENTATEUCO - TEXTO, TEOLOGIA E ENSINO.pdf"
   },
   {
-   "nome": "Operação de Máquinas Ágricolas",
+   "nome": "Operação de Máquinas Agrícolas",
    "ch": 360,
    "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - OPERACAO DE MAQUINAS AGRICOLAS.pdf",
    "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - OPERACAO DE MAQUINAS AGRICOLAS.pdf"
@@ -1195,6 +1285,12 @@
    "ch": 360,
    "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - PORTUGUES PARA ESTRANGEIROS.pdf",
    "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - PORTUGUES PARA ESTRANGEIROS.pdf"
+  },
+  {
+   "nome": "Português para o Enem",
+   "ch": 120,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - PORTUGUES PARA O ENEM.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - PORTUGUES PARA O ENEM.pdf"
   },
   {
    "nome": "Power Bi",
@@ -1341,6 +1437,12 @@
    "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - SOCIOLOGIA.pdf"
   },
   {
+   "nome": "Sociologia para o Enem",
+   "ch": 180,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - SOCIOLOGIA PARA O ENEM.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - SOCIOLOGIA PARA O ENEM.pdf"
+  },
+  {
    "nome": "Socorrista APH",
    "ch": 180,
    "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - SOCORRISTA APH.pdf",
@@ -1387,6 +1489,12 @@
    "ch": 154,
    "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - TECNICAS DE REDACAO.pdf",
    "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - TECNICAS DE REDACAO.pdf"
+  },
+  {
+   "nome": "Tecnologia da Informação e Comunicação Para o Enem",
+   "ch": 180,
+   "com_logo": "ia-andrina/cursos/matrizes-com-logo/MATRIZ CURRICULAR - TECNOLOGIA DA INFORMACAO E COMUNICACAO PARA O ENEM.pdf",
+   "sem_logo": "ia-andrina/cursos/matrizes-sem-logo/MATRIZ CURRICULAR - TECNOLOGIA DA INFORMACAO E COMUNICACAO PARA O ENEM.pdf"
   },
   {
    "nome": "Teologia Histórica",
